@@ -1,0 +1,16 @@
+# Core scientific stack
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine learning
+scikit-learn>=1.3.0
+
+# Visualization
+plotly>=5.15.0
+
+# Streamlit app
+streamlit>=1.28.0
+
+# Point cloud I/O (optional — used if open3d is available)
+# open3d>=0.17.0
